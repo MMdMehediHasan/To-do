@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Tic Tac Toe Game",
+  "version": "1.0",
+  "description": "Play Tic Tac Toe in your browser!",
+  "action": {
+    "default_popup": "index.html"
+      },
+   "permissions": [],
+  "host_permissions": []
+}
